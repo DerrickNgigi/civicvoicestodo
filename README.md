@@ -2,6 +2,14 @@
 
 Civic Voices is a project designed to manage users and tasks while incorporating OTP verification and email notifications.
 
+The project has been developed on Nestjs a framework build on the nodejs environment. 
+
+The project is hosted on Railway a platform that allows you to deploy your projects with ease.
+
+The project utilizes mailtrap for email testing and nodemailer for sending emails.
+
+The project is supported by Postgres database for data storage.
+
 ---
 
 ## Installation
